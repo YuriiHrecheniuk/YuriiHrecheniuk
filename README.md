@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @YuriiHrecheniuk
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Web-Development
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on ReactJS projects
+- 📫 How to reach me: yuriy@hrecheni.uk
 
 <!---
 YuriiHrecheniuk/YuriiHrecheniuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
