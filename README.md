@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YuriiHrecheniuk
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Web-Development
-- 💞️ I’m looking to collaborate on ReactJS projects
+- 💞️ I’m looking to collaborate on ReactJS/Angular projects
 - 📫 How to reach me: yuriy@hrecheni.uk
 
 <!---
